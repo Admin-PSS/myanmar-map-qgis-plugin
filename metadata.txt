@@ -1,0 +1,16 @@
+[general]
+name=Myanmar Map Generator
+qgisMinimumVersion=3.0
+description=Generate thematic maps for Myanmar townships from Excel data
+version=1.0
+author=PS_GIS
+email=info@example.com
+about=Generate categorized or binary thematic maps for Myanmar townships. Join Excel data to shapefiles and apply colors by category.
+tracker=https://github.com
+repository=https://github.com
+tags=myanmar,map,thematic,township,excel
+homepage=https://github.com
+category=Cartography
+icon=icon.png
+experimental=False
+deprecated=False
