@@ -15,9 +15,10 @@ A QGIS plugin for generating thematic maps of Myanmar townships from Excel data.
 - **Page sizes**: A4 and A3 support
 - **Auto column detection**: Automatically reads Excel columns
 
-## Screenshot
+## Screenshots
 
-![Plugin Screenshot](screenshots/plugin_dialog.png)
+![Plugin Dialog](screenshots/QGIS_Plugin0.png)
+![Map Output](screenshots/QGIS_Plugin1.png)
 
 ## Installation
 
